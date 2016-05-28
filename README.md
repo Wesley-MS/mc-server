@@ -1,1 +1,2 @@
-# mc-server
+# Minecraft Server
+I have a minecraft server running on a computer in a different room and I'd like to be able to add plugins remotely from my computer to the server without actually having to go find and download plugins on that computer. It'll help when I'm simply browsing plugins. I'll have to walk over there to sync of course, but even then I can sync, walk away, come to my computer and restart my computer. Basically just to make it easier for me. :package:
